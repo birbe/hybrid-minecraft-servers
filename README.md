@@ -12,7 +12,7 @@
 
 [SpongePowered (Forge + Sponge)](https://www.spongepowered.org/)
 
-[LavaPowered (Forge + Spigot)][https://github.com/LavaPowered/Lava]
+[LavaPowered (Forge + Spigot)](https://github.com/LavaPowered/Lava)
 
 ### 1.12.1
 
