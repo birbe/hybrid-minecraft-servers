@@ -1,4 +1,4 @@
-#1 List of hybrid Minecraft servers that I've found or am aware of
+# List of hybrid Minecraft servers that I've found or am aware of
 
 ## Repos with inactive development are struck-through
 
