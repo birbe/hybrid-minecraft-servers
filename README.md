@@ -14,6 +14,8 @@
 
 [LavaPowered (Forge + Spigot)](https://github.com/LavaPowered/Lava)
 
+[AtomMC (Forge + CraftBukkit)](https://github.com/AtomMC/AtomMC)
+
 ### 1.12.1
 
 [SpongePowered (Forge + Sponge)](https://www.spongepowered.org/)
